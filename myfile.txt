@@ -1,4 +1,10 @@
+<<<<<<<<< HEAD
 first
+=======
+
+jini
+one
+>>>>>>> 2c57b323480d6cc7b4aa981f165d59154b6b08da
 second
 third
 fourth
