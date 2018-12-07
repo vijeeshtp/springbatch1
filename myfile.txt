@@ -1,8 +1,17 @@
+
+
+
+<<<<<<< HEAD
 <<<<<<<<< HEAD
 first
 =======
+=======
+forth
+mithu
+>>>>>>> 43baafd6d0c3a88664ac522c90c5d179633a9d51
 
 jini
+
 one
 >>>>>>> 2c57b323480d6cc7b4aa981f165d59154b6b08da
 second
