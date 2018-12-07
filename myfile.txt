@@ -1,35 +1,24 @@
-<<<<<<< HEAD
 
-
-
-<<<<<<< HEAD
-<<<<<<<<< HEAD
 first
-=======
-=======
-<<<<<<< HEAD
+
 haiii
->>>>>>> 86d68485609fcde82ad0ebb965eaf7b97ab305b5
-=======
+
 forth
 mithu
->>>>>>> 43baafd6d0c3a88664ac522c90c5d179633a9d51
+
 
 jini
 
 one
->>>>>>> 2c57b323480d6cc7b4aa981f165d59154b6b08da
+
 second
-<<<<<<< HEAD
+
 third
 fourth
-=======
-<<<<<<< HEAD
+
 third
 fourth
 fifth
-=======
->>>>>>> 5b3699bc68342f57ef9930b519b42e742f226ce1
+
 sree
->>>>>>> 86d68485609fcde82ad0ebb965eaf7b97ab305b5
->>>>>>> 5b7896dcc5b33faef86eab472b4cca40d091d353
+
